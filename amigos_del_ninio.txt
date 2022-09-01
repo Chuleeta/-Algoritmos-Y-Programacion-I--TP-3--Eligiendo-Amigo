@@ -1,0 +1,3 @@
+azul;=100;divertido;miedoso
+coraje
+jhonny
